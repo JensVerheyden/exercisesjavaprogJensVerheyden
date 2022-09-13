@@ -1,7 +1,7 @@
 public class Testikel {
 
     public String toString() {
-        return "TEST123";
+        return "Hopelijk krijgen we nu een merge conflict verrekte koekwaus";
     }
 
 }
